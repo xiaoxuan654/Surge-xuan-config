@@ -1,0 +1,15 @@
+[Rule]
+IP-CIDR,10.243.0.0/16,home,no-resolve
+IP-CIDR,192.168.1.1/24,home,no-resolve
+DOMAIN,xuan.god,home
+DOMAIN-SUFFIX,groq.com,美国,extended-matching
+DOMAIN,ip-api.com,Proxy
+DOMAIN-SUFFIX,getsession.org,Proxy,extended-matching
+DOMAIN-SUFFIX,unmineable.com,Proxy,extended-matching
+DOMAIN,api.unminable.com,Proxy
+DOMAIN-SUFFIX,zh.z-lib.gs,Proxy,extended-matching
+DOMAIN-SUFFIX,macked.app,Proxy,extended-matching
+DOMAIN-SUFFIX,ghcr.io,Proxy,extended-matching
+DOMAIN-SUFFIX,brew.sh,Proxy,extended-matching
+DOMAIN-SUFFIX,havoc.app,Proxy
+DOMAIN-SUFFIX,byg.iosios.net,Proxy
