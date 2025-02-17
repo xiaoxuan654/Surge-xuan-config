@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,ghcr.io,Proxy,extended-matching
 DOMAIN-SUFFIX,brew.sh,Proxy,extended-matching
 DOMAIN-SUFFIX,havoc.app,Proxy
 DOMAIN-SUFFIX,byg.iosios.net,Proxy
+[MITM]
+hostname = -*.5eplay.com
