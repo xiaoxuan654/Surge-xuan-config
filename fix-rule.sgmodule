@@ -2,9 +2,6 @@
 #!desc=小轩的Surge规则修正
 #!category=xuan
 [Rule]
-IP-CIDR,10.243.0.0/16,home,no-resolve
-IP-CIDR,192.168.1.1/24,home,no-resolve
-DOMAIN,xuan.god,home
 DOMAIN-SUFFIX,groq.com,美国,extended-matching
 DOMAIN,ip-api.com,Proxy
 DOMAIN-SUFFIX,getsession.org,Proxy,extended-matching
