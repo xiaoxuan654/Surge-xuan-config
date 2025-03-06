@@ -2,6 +2,7 @@
 #!desc=小轩的Surge规则修正
 #!category=xuan
 [Rule]
+DOMAIN-SUFFIX,82flex.com,Proxy
 DOMAIN-SUFFIX,groq.com,美国,extended-matching
 DOMAIN,ip-api.com,Proxy
 DOMAIN-SUFFIX,getsession.org,Proxy,extended-matching
