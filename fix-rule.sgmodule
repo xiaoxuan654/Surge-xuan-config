@@ -15,4 +15,4 @@ DOMAIN-SUFFIX,brew.sh,Proxy,extended-matching
 DOMAIN-SUFFIX,havoc.app,Proxy
 DOMAIN-SUFFIX,byg.iosios.net,Proxy
 [MITM]
-hostname =%INSERT%  -*5eplay.com
+hostname =%INSERT%  -*5eplay.com  ,-oray.com
